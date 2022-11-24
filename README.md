@@ -3,3 +3,6 @@
 ## IMDB Movie Dataset
 ### Movie posters: The file "posters.md" contains a link to the raw poster images
 ### Relational table: The file "movie_dataset.json" contains relational tuples corresponding to the posters
+
+## NYC Open Dataset
+### Event posters: The file "posters.md" contains a link to the raw poster images 
