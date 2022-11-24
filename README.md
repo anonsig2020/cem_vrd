@@ -1,2 +1,1 @@
-# cem_vrd
-Datasets Used for Evaluating Cross-Modal Entity Matching Frameworks for VRDs
+# Datasets Used for Evaluating JUNO: A Cross-Modal Entity Matching Framework for VRDs
